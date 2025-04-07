@@ -125,7 +125,8 @@ Utilize métodos: POST, GET, PUT, DELETE
 Corpo da requisição sempre em JSON
 
 ### ✨ Autor
-Pedrinho
+João Pedro.
+
 Estudante de Análise e Desenvolvimento de Sistemas
 📚 Futuro Engenheiro de Software | Back-end Java
 🔥 Em constante evolução
