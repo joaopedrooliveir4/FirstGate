@@ -1,4 +1,4 @@
-# 🧠 Spring Boot User API
+# 🧠 FirstGate
 
 Bem-vindo à minha API de usuários feita com **Spring Boot**!  
 Este projeto foi construído com foco em aprendizado, boas práticas, organização de código e muita vontade de evoluir como dev Java! 💪
